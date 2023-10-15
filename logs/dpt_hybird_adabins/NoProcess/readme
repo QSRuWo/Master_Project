@@ -1,0 +1,4 @@
+data augmentation: No
+optimizer: optim.Adam(model.parameters(), lr=lr)
+lr_scheduler: No
+initial_lr: 0.001
